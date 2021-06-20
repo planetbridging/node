@@ -35,4 +35,4 @@ function randomString(size){
     }
     return pass;
 }
-console.log(Math.random());
+console.log(randomString(20));
